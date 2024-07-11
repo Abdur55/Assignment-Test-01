@@ -207,19 +207,23 @@
 /* class="content------start---- */
 
 .banner-support {
-    height: 314px;
-    border: 2px solid red;
     background-image: url(images/icons-3/B10A1-Challenge-Begins/assets/handshake.jpg);
     background-position: center;
     background-size: cover;
+    padding-bottom: 35px;
+    border-radius: 16px;
+    background-color: rgba(0, 0, 0, 0.61);
+    background-blend-mode: overlay;
 }
 .banner-center {
     text-align: center;
     padding-top: 60px;
+    color: #ffffff;
 }
 .banner-center-text{
     text-align: center;
     padding:15px;
+    color: #ffffff;
 }
 .form-support {
    margin-left: 40%;
